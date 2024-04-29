@@ -4,14 +4,5 @@ Hi, I'm Angel Vegas!
 
  A little more about me...
 
- const Angel = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SQL, MongoDB],
-  tools: [React, Redux, Node, PostgreSQL, Compass, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  nextChallenges: {
-                        java: "Angular",
-                        python: "",
-                        typescript: "--"
-                      },
-}
+![cod tools](https://github.com/Vegas-in/Vegas-in/assets/158770667/41317e42-46bd-46c8-9a3d-81f3883dd00c)
+
