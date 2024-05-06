@@ -11,7 +11,6 @@ const Angel = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SQL, MongoDB],
   tools: [React, Redux, Node, PostgreSQL, Compass, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   nextChallenges: {
                         java: "Angular",
                         python: "",
